@@ -89,13 +89,13 @@ export default function ProfileScreen({ navigate }: Props) {
 
             <div className="relative rounded-[40px] shrink-0 size-[80px]">
               <div className="absolute inset-0 rounded-[40px] bg-gradient-to-br from-[#1e293b] to-[#0f172a] flex items-center justify-center">
-                <span className="font-['Young_Serif:Regular',sans-serif] text-[28px] text-white">MS</span>
+                <span className="font-['Young_Serif:Regular',sans-serif] text-[28px] text-white">WC</span>
               </div>
               <div aria-hidden className="absolute border-2 border-[#8b1a2b] border-solid inset-0 rounded-[40px]" />
             </div>
 
             <p className="font-['Young_Serif:Regular',sans-serif] leading-[normal] not-italic relative shrink-0 text-[22px] text-white">
-              Micheal Douglas Skinner
+              William Coler
             </p>
 
             <div className="bg-[rgba(139,26,43,0.08)] content-stretch flex items-start px-[10px] py-[4px] relative rounded-[999px] shrink-0">
@@ -124,7 +124,7 @@ export default function ProfileScreen({ navigate }: Props) {
             <div className="h-px relative shrink-0 w-full bg-[rgba(255,255,255,0.12)]" />
 
             <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0 w-full">
-              <InfoRow label="Account Holders" value="Micheal Douglas Skinner" />
+              <InfoRow label="Account Holders" value="William Coler" />
               <InfoRow label="Account Type" value="Premium Checking" />
               <InfoRow label="Customer ID" value="BM-7829451" />
 
@@ -161,7 +161,7 @@ export default function ProfileScreen({ navigate }: Props) {
             <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0 w-full">
               <InfoRow label="DOB" value="xxxxxxx" />
               <InfoRow label="Phone" value="xxxxxxx" />
-              <InfoRow label="Email" value="Jrd825688@gmail.com" />
+              <InfoRow label="Email" value="em9531819@gmail.com" />
             </div>
           </div>
 
@@ -183,8 +183,8 @@ export default function ProfileScreen({ navigate }: Props) {
             <div className="h-px relative shrink-0 w-full bg-[rgba(255,255,255,0.12)]" />
 
             <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0 w-full">
-              <InfoRow label="Street" value="2111 LINDELL AVENUE" />
-              <InfoRow label="City/State" value="NASHVILLE TENNESSEE 37204" />
+              <InfoRow label="Street" value="3525 Forrester Lane" />
+              <InfoRow label="City/State" value="Waco TX 76708" />
               <InfoRow label="Country" value="USA" />
             </div>
           </div>
